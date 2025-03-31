@@ -9,7 +9,7 @@ export function Hero() {
         <UrlShortenerLogo />
       </div>
       <div className="text-center font-semibold text-text-700">
-        <h1 className="sr-only">{APP_TITLE}</h1>
+        <h1 className="sr-only">Sorvx Short</h1>
         <p>
           <span className="text-primary-600">Sorvx shot</span> is a shortner for Sorvx team members
         </p>
