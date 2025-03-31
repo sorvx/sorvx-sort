@@ -11,7 +11,7 @@ export function Hero() {
       <div className="text-center font-semibold text-text-700">
         <h1 className="sr-only">Sorvx Short</h1>
         <p>
-          <span className="text-primary-600">Sorvx shot</span> is a shortner for Sorvx team members
+          <span className="text-primary-600">Sorvx short</span> is a shortner for Sorvx team members
         </p>
         <p>
           Since this for members only you can't get started on here, shortened URLs will be active for{' '}
