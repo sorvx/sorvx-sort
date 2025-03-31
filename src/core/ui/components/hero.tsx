@@ -11,11 +11,10 @@ export function Hero() {
       <div className="text-center font-semibold text-text-700">
         <h1 className="sr-only">{APP_TITLE}</h1>
         <p>
-          <span className="text-primary-600">{APP_TITLE}</span> is an open
-          source URL shortener demo.
+          <span className="text-primary-600">Sorvx shot</span> is a shortner for Sorvx team members
         </p>
         <p>
-          Since this is a demo application, shortened URLs will be active for{' '}
+          Since this for members only you can't get started on here, shortened URLs will be active for{' '}
           {URL_LIFETIME_IN_MINUTES} minutes only.
         </p>
       </div>
